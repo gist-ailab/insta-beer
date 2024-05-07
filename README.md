@@ -1,8 +1,8 @@
 # INSTA-BEEER
 
-This repository contains the source codes for the paper "INSTA-BEEER: Explicit Error Estimation and Refinement for Fast and Accurate Unseen Object Instance Segmentation". 
+This repository contains the source codes for the paper "Fast and Accurate Unknown Object Instance Segmentation through Error-Informed Refinement". 
 
-The paper has been authored by Seunghyeok Back, Sangbeom Lee, Kangmin Kim, Joosoon Lee, Sungho Shin, Jaemo Maeng, and Kyoobin Lee.
+The paper has been authored by Seunghyeok Back, Sangbeom Lee, Kangmin Kim, Joosoon Lee, Sungho Shin, Jemo Maeng, and Kyoobin Lee.
 
 ## Project Status
 
