@@ -1,4 +1,4 @@
-# INSTA-BEEER
+# INSTA-BEER
 
 This repository contains the source codes for the paper "Fast and Accurate Unknown Object Instance Segmentation through Error-Informed Refinement". 
 
